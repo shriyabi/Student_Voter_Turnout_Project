@@ -78,7 +78,7 @@ body {
 
 
 .states:hover{
-    box-shadow: 0 0 1.5em #f3f3f3; 
+    box-shadow: 0 0 3em rgba(60, 60, 60, 0.747); 
     width: 21vw; 
     height: 31vh; 
     border-color:transparent;
